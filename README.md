@@ -19,6 +19,7 @@ I'm an electrical engineer who currently dabbles in robotics, SMPS Power supply 
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mehrdad-feyz-mahdavi/mehrdad-feyz-mahdavi/main/assets/github-contribution-grid-snake.svg" alt="Snake game animation of my GitHub contributions"/>
+  <img src="https://raw.githubusercontent.com/mehrdad-feyz-mahdavi/mehrdad-feyz-mahdavi/output/dist/github-contribution-grid-snake.svg" alt="Snake game"/>
+  <img src="https://raw.githubusercontent.com/mehrdad-feyz-mahdavi/mehrdad-feyz-mahdavi/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake game dark mode"/>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
