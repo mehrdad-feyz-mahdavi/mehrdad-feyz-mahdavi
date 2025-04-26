@@ -18,5 +18,7 @@ I'm an electrical engineer who currently dabbles in robotics, SMPS Power supply 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315sbglrwogjrpwy52azbezucfwy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-![Snake game animation of my GitHub contributions](https://raw.githubusercontent.com/mehrdad-feyz-mahdavimehrdad-feyz-mahdavi/mehrdad-feyz-mahdavi/main/assets/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehrdad-feyz-mahdavi/mehrdad-feyz-mahdavi/main/assets/github-contribution-grid-snake.svg" alt="Snake game animation of my GitHub contributions"/>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
