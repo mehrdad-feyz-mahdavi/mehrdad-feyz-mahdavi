@@ -18,6 +18,6 @@ I'm an electrical engineer who currently dabbles in robotics, SMPS Power supply 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315sbglrwogjrpwy52azbezucfwy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake game animation of my GitHub contributions](https://raw.githubusercontent.com/mehrdad-feyz-mahdavimehrdad-feyz-mahdavi/YOUR_REPO_NAME/main/assets/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
