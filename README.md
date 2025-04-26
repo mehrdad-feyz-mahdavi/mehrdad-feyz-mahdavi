@@ -18,8 +18,7 @@ I'm an electrical engineer who currently dabbles in robotics, SMPS Power supply 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315sbglrwogjrpwy52azbezucfwy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-[[<p align="center">
-  <img src="https://raw.githubusercontent.com/mehrdad-feyz-mahdavi/mehrdad-feyz-mahdavi/output/dist/github-contribution-grid-snake.svg" alt="Snake game"/>
-  <img src="https://raw.githubusercontent.com/mehrdad-feyz-mahdavi/mehrdad-feyz-mahdavi/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake game dark mode"/>
-</p>](https://raw.githubusercontent.com/mehrdad-feyz-mahdavi/mehrdad-feyz-mahdavi/main/dist/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/mehrdad-feyz-mahdavi/mehrdad-feyz-mahdavi/main/dist/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehrdad-feyz-mahdavi/mehrdad-feyz-mahdavi/main/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Game (Dark Mode)"/>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
