@@ -15,7 +15,7 @@ I'm an electrical engineer who currently dabbles in robotics, SMPS Power supply 
 ---
 [![](https://visitcount.itsvg.in/api?id=mehrdad-feyz-mahdavi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315sbglrwogjrpwy52azbezucfwy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile]([![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315sbglrwogjrpwy52azbezucfwy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile))
 
 
 <p align="center">
