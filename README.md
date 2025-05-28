@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an electrical engineer who currently dabbles in robotics, SMPS Power supply design and power Amplifier design<br><br>
+I'm an electrical engineer who currently works at patvaz Co. as embedded software engineer for AC Drives and i dabbles in robotics, SMPS Power supply design and power Amplifier design<br><br>
 
 
 ## 🌐 Socials:
